@@ -2,5 +2,5 @@
 description: coming soon
 ---
 
-# Thai Yant 101 ៚
+# ꪒ Type of Yant
 
