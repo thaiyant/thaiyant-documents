@@ -8,8 +8,11 @@
 * [থ Yant Layout](theory/yant-layout.md)
 * [の Rarity](theory/no-rarity.md)
 
-## 🖥️ APPLICATION
+## 🎁 FOR YOU
 
-* [🔎 explorer.thaiyant.art](https://explorer.thaiyant.art)
-* [🖼️ thaiyant.art/create](https://thaiyant.art/create)
-* [💎 thaiyant.art/mythical](https://thaiyant.art/mythical)
+* [💎 Mythical Yant Privilege](for-you/mythical-yant-privilege.md)
+
+## 🤝 COMMUNITIES
+
+* [Join Discord](https://discord.gg/ZV3uNJUG)
+* [Follow X (Twitter)](https://twitter.com/thaiyant)
