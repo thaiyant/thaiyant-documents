@@ -11,6 +11,7 @@
 ## 🎁 FOR YOU
 
 * [💎 Mythical Yant Privilege](for-you/mythical-yant-privilege.md)
+* [⚜️ Legendary Privilege](for-you/legendary-privilege.md)
 
 ## 🤝 COMMUNITIES
 
