@@ -4,14 +4,15 @@
 
 ## 📜 THEORY
 
-* [ꪒ Type of Yant](theory/type-of-yant.md)
+* [ꪒ Scred of 8 Buddhagunas](theory/scred-of-8-buddhagunas.md)
 * [থ Yant Layout](theory/yant-layout.md)
-* [の Rarity](theory/no-rarity.md)
+* [の Yant Categories](theory/no-yant-categories.md)
+* [এ Yant Power/Stat/Rarity](theory/yant-power-stat-rarity.md)
 
-## 🎁 FOR YOU
+## 🎁 EXCLUSIVE
 
-* [💎 Mythical Yant Privilege](for-you/mythical-yant-privilege.md)
-* [⚜️ Legendary Privilege](for-you/legendary-privilege.md)
+* [💎 Mythical Yant Privilege](exclusive/mythical-yant-privilege.md)
+* [⚜️ Legendary Yant Privilege](exclusive/legendary-yant-privilege.md)
 
 ## 🤝 COMMUNITIES
 
