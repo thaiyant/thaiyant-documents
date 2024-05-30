@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Thai Yant 101 ៚](README.md)
+* [What is Thai Yant ៚](README.md)
 
 ## 📜 THEORY
 
