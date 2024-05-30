@@ -6,7 +6,7 @@
 
 * [ꪒ Scred of 8 Buddhagunas](theory/scred-of-8-buddhagunas.md)
 * [থ Yant Layout](theory/yant-layout.md)
-* [の Yant Categories](theory/no-yant-categories.md)
+* [ମ Yant Categories](theory/yant-categories.md)
 * [এ Yant Power/Stat/Rarity](theory/yant-power-stat-rarity.md)
 
 ## 🎁 EXCLUSIVE
