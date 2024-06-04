@@ -2,6 +2,7 @@
 
 * [What is Thai Yant ៚](README.md)
 * [How we craft Yant⬩](how-we-craft-yant.md)
+* [Thai Yant Roadmap ⬩](thai-yant-roadmap.md)
 
 ## 📜 THEORY
 
